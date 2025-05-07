@@ -1,0 +1,40 @@
+﻿/*Corpo do site*/
+body {
+    background-color: #FFF7E7;    
+}
+
+/*Titulo pagina*/
+.display-4{
+    font-size:5vh;
+    font-family:Arial;
+}
+
+/*Todo o container*/
+#section {
+    display: inline-flex;
+}
+
+/*Texto ao lado da img1*/
+#Texto1{
+    font-size:2.5vh;
+    font-family:Arial;
+    text-align:initial; 
+}
+
+/*Imagem 1 Manipulação*/
+#Img1 {
+    width: 300px;
+    height: 250px;
+    display: block;
+}
+
+.imgpromo{
+    gap:20px;
+    display: inline-flex;
+}
+
+.imgpromo, img {
+    width: 200px;
+    height: 200px;
+    align-items:initial;
+}
