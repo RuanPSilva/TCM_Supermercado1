@@ -1,14 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2bmod\\Desktop\\TCM_Supermercado1\\",
+  "WorkspaceRootPath": "C:\\Users\\kyara\\OneDrive\\Desktop\\RuanEs\\Estudos\\DS_Noite\\Cidade\\RuanPSilva\\TCM_Supermercado1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{711DCFF2-AE3F-45CC-9C65-8501AA27D1E3}|TCM_Supermercado1.csproj|c:\\users\\2bmod\\desktop\\tcm_supermercado1\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{711DCFF2-AE3F-45CC-9C65-8501AA27D1E3}|TCM_Supermercado1.csproj|c:\\users\\kyara\\onedrive\\desktop\\ruanes\\estudos\\ds_noite\\cidade\\ruanpsilva\\tcm_supermercado1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{711DCFF2-AE3F-45CC-9C65-8501AA27D1E3}|TCM_Supermercado1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711DCFF2-AE3F-45CC-9C65-8501AA27D1E3}|TCM_Supermercado1.csproj|c:\\users\\kyara\\onedrive\\desktop\\ruanes\\estudos\\ds_noite\\cidade\\ruanpsilva\\tcm_supermercado1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{711DCFF2-AE3F-45CC-9C65-8501AA27D1E3}|TCM_Supermercado1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711DCFF2-AE3F-45CC-9C65-8501AA27D1E3}|TCM_Supermercado1.csproj|c:\\users\\kyara\\onedrive\\desktop\\ruanes\\estudos\\ds_noite\\cidade\\ruanpsilva\\tcm_supermercado1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{711DCFF2-AE3F-45CC-9C65-8501AA27D1E3}|TCM_Supermercado1.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{711DCFF2-AE3F-45CC-9C65-8501AA27D1E3}|TCM_Supermercado1.csproj|c:\\users\\kyara\\onedrive\\desktop\\ruanes\\estudos\\ds_noite\\cidade\\ruanpsilva\\tcm_supermercado1\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{711DCFF2-AE3F-45CC-9C65-8501AA27D1E3}|TCM_Supermercado1.csproj|solutionrelative:wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{711DCFF2-AE3F-45CC-9C65-8501AA27D1E3}|TCM_Supermercado1.csproj|c:\\users\\2bmod\\desktop\\tcm_supermercado1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{711DCFF2-AE3F-45CC-9C65-8501AA27D1E3}|TCM_Supermercado1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{711DCFF2-AE3F-45CC-9C65-8501AA27D1E3}|TCM_Supermercado1.csproj|c:\\users\\kyara\\onedrive\\desktop\\ruanes\\estudos\\ds_noite\\cidade\\ruanpsilva\\tcm_supermercado1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{711DCFF2-AE3F-45CC-9C65-8501AA27D1E3}|TCM_Supermercado1.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kyara\\OneDrive\\Desktop\\RuanEs\\Estudos\\DS_Noite\\Cidade\\RuanPSilva\\TCM_Supermercado1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kyara\\OneDrive\\Desktop\\RuanEs\\Estudos\\DS_Noite\\Cidade\\RuanPSilva\\TCM_Supermercado1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T14:44:46.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\kyara\\OneDrive\\Desktop\\RuanEs\\Estudos\\DS_Noite\\Cidade\\RuanPSilva\\TCM_Supermercado1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\kyara\\OneDrive\\Desktop\\RuanEs\\Estudos\\DS_Noite\\Cidade\\RuanPSilva\\TCM_Supermercado1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-08T14:33:28.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Home.css",
-              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\TCM_Supermercado1\\wwwroot\\css\\Home.css",
+              "DocumentMoniker": "C:\\Users\\kyara\\OneDrive\\Desktop\\RuanEs\\Estudos\\DS_Noite\\Cidade\\RuanPSilva\\TCM_Supermercado1\\wwwroot\\css\\Home.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\Home.css",
-              "ToolTip": "C:\\Users\\2bmod\\Desktop\\TCM_Supermercado1\\wwwroot\\css\\Home.css",
+              "ToolTip": "C:\\Users\\kyara\\OneDrive\\Desktop\\RuanEs\\Estudos\\DS_Noite\\Cidade\\RuanPSilva\\TCM_Supermercado1\\wwwroot\\css\\Home.css",
               "RelativeToolTip": "wwwroot\\css\\Home.css",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-05-06T22:56:40.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\TCM_Supermercado1\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kyara\\OneDrive\\Desktop\\RuanEs\\Estudos\\DS_Noite\\Cidade\\RuanPSilva\\TCM_Supermercado1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\2bmod\\Desktop\\TCM_Supermercado1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kyara\\OneDrive\\Desktop\\RuanEs\\Estudos\\DS_Noite\\Cidade\\RuanPSilva\\TCM_Supermercado1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACkAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAwAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-06T22:55:11.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\kyara\\OneDrive\\Desktop\\RuanEs\\Estudos\\DS_Noite\\Cidade\\RuanPSilva\\TCM_Supermercado1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\kyara\\OneDrive\\Desktop\\RuanEs\\Estudos\\DS_Noite\\Cidade\\RuanPSilva\\TCM_Supermercado1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-08T14:51:53.607Z",
               "EditorCaption": ""
             }
           ]
