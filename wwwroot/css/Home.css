@@ -19,6 +19,7 @@ body {
     font-size:2.5vh;
     font-family:Arial;
     text-align:initial; 
+    margin-top: 50px;
 }
 
 /*Imagem 1 Manipulação*/
@@ -26,15 +27,18 @@ body {
     width: 300px;
     height: 250px;
     display: block;
+    margin: 30px;
+
 }
 
-.imgpromo{
-    gap:20px;
-    display: inline-flex;
+.imgpromo {
+    display: flex;
+    gap: 20px;
+    justify-content: center; 
 }
 
-.imgpromo, img {
-    width: 200px;
-    height: 200px;
-    align-items:initial;
-}
+    .imgpromo img {
+        width: 200px;
+        height: 200px;
+        object-fit: cover; /* ajusta a imagem para não deformar */
+    }
