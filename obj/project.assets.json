@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kyara\\OneDrive\\Desktop\\RuanEs\\Estudos\\DS_Noite\\Cidade\\RuanPSilva\\TCM_Supermercado1\\TCM_Supermercado1.csproj",
+      "projectUniqueName": "C:\\Users\\kyara\\OneDrive\\Desktop\\TCM_Supermercado1\\TCM_Supermercado1.csproj",
       "projectName": "TCM_Supermercado1",
-      "projectPath": "C:\\Users\\kyara\\OneDrive\\Desktop\\RuanEs\\Estudos\\DS_Noite\\Cidade\\RuanPSilva\\TCM_Supermercado1\\TCM_Supermercado1.csproj",
+      "projectPath": "C:\\Users\\kyara\\OneDrive\\Desktop\\TCM_Supermercado1\\TCM_Supermercado1.csproj",
       "packagesPath": "C:\\Users\\kyara\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kyara\\OneDrive\\Desktop\\RuanEs\\Estudos\\DS_Noite\\Cidade\\RuanPSilva\\TCM_Supermercado1\\obj\\",
+      "outputPath": "C:\\Users\\kyara\\OneDrive\\Desktop\\TCM_Supermercado1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kyara\\AppData\\Roaming\\NuGet\\NuGet.Config",

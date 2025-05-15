@@ -3,42 +3,21 @@ body {
     background-color: #FFF7E7;    
 }
 
-/*Titulo pagina*/
 .display-4{
-    font-size:5vh;
-    font-family:Arial;
+    color:darkorange;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-/*Todo o container*/
-#section {
-    display: inline-flex;
+.Login {
+    background-color: seagreen;
+    color:darkorange;
+    width:70%;
+    height: 200px;
+    padding:initial;
+    border-radius:5px;
 }
 
-/*Texto ao lado da img1*/
-#Texto1{
-    font-size:2.5vh;
-    font-family:Arial;
-    text-align:initial; 
-    margin-top: 50px;
+#digito{
+    padding: 10px;
 }
 
-/*Imagem 1 Manipulação*/
-#Img1 {
-    width: 300px;
-    height: 250px;
-    display: block;
-    margin: 30px;
-
-}
-
-.imgpromo {
-    display: flex;
-    gap: 20px;
-    justify-content: center; 
-}
-
-    .imgpromo img {
-        width: 200px;
-        height: 200px;
-        object-fit: cover; /* ajusta a imagem para não deformar */
-    }
